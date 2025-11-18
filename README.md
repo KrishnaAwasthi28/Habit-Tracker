@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Habit Tracker — README</title>
-  </head>
-
-  <body>
-
 <h1 align="center">Habit Tracker — Daily Streaks</h1>
 
 <p align="center">
@@ -233,3 +224,4 @@ public class CorsConfig {
 
   </body>
 </html>
+
